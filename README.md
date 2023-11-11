@@ -13,7 +13,7 @@
 This repo contains training code for an algorithm to indicate whether a specific predication identified by
 SemRep is in fact contained within its source sentence, as well as source materials from the University.
 
-If you wish to load the model and run it, example code is in the second half of the main notebook.
+If you wish to load the model and run it, the evaluation code in the second half of the main notebook does this.
 
 ### Contents
 
@@ -24,5 +24,5 @@ and evaluation code
 - `Task_Description.md`: The original task description
 - `README.md`: This file
 - `data/`: contains the original `csv` of the data as well as a `pickle` file of the data after preprocessing
-- `models/`: contains the trained model (upload TBD, it's too big for GitHub right now)
+- `models/`: contains the trained model (_upload TBD, it's too big for GitHub right now_)
 - `extras/`: holding space for working-idea scratch notebooks and a plot included in the main notebook
