@@ -24,5 +24,5 @@ and evaluation code
 - `Task_Description.md`: The original task description
 - `README.md`: This file
 - `data/`: contains the original `csv` of the data as well as a `pickle` file of the data after preprocessing
-- `models/`: contains the trained model (_upload TBD, it's too big for GitHub right now_)
+- `models/`: contains the trained model (uploaded with [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github))
 - `extras/`: holding space for working-idea scratch notebooks and a plot included in the main notebook
